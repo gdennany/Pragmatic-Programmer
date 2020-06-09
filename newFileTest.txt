@@ -1,0 +1,1 @@
+I wanted to test if I can add files to git repositories by just creating the new file locally and typing "git add . , git commit, git push", instead of using git add neew-file-name
